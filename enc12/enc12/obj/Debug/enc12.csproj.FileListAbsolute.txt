@@ -1,0 +1,10 @@
+C:\Users\asafl\source\repos\enc12\enc12\bin\Debug\enc12.exe.config
+C:\Users\asafl\source\repos\enc12\enc12\bin\Debug\enc12.exe
+C:\Users\asafl\source\repos\enc12\enc12\bin\Debug\enc12.pdb
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.csprojResolveAssemblyReference.cache
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.Form1.resources
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.Properties.Resources.resources
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.csproj.GenerateResource.Cache
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.csproj.CoreCompileInputs.cache
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.exe
+C:\Users\asafl\source\repos\enc12\enc12\obj\Debug\enc12.pdb
